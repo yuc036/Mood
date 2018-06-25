@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Mood",
+    "icon": "./assets/images/star.png",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.macys.mood"
+    },
+    "android": {
+      "package": "com.macys.mood"
+    }
+  }
+}
